@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://en.wikipedia.org/wiki/Help:IPA/Turkish'>[naz deˈniz a'tic]</a>
+title: <a href='https://en.wikipedia.org/wiki/Help:IPA/Turkish'>[naz deˈniz a'tic]</a>
 
 profile:
   align: right
@@ -26,9 +26,9 @@ Hello, my name is Deniz. I am a <b>cognitive scientist</b> and <b>psycholinguist
 
 <b>As a person</b>, I am forever fascinated by just how much <b>variability</b> languages exhibit, both across and within themselves. So, I spend a lot of time thinking about how we, as humans, navigate and sometimes even take advantage of this variability to communicate, learn, and reason in different <b>linguistic and social contexts</b> throughout development.
 
-<b>As a researcher</b>, I combine developmental, psycholinguistic, sociolinguistic, and cognitive science approaches to explore these questions. I am particularly interested in how young children process and learn from <b>unfamiliar-accented speech</b> (This is what I prefer to call it! We all have accents, so all speech is "accented."). My dissertation and publications have primarily focused on two questions:
+<b>As a researcher</b>, I combine developmental, psycholinguistic, sociolinguistic, and cognitive science approaches to explore these questions. I am particularly interested in how young children process and learn from <b>unfamiliar-accented speech</b> (This is what I prefer to call it. We all have accents, so all speech is "accented"!). My dissertation and publications have primarily focused on two questions:
 
-- Can children predict an upcoming word in an unfamiliar accent based on the preceding words? For instance, can they predict that "cake" is likely to follow "eat"? This is an important skill we call <i>semantic prediction</i>. The answer is: 1)[Yes]({{ '/assets/pdf/Atik et al. - Developmental Science - 2024.pdf'}}), 4-year-olds can!
+- Can children predict an upcoming word in an unfamiliar accent based on the preceding words? For instance, can they predict that "cake" is likely to follow "eat"? This is an important skill we call <i>semantic prediction</i>. The answer is: [Yes]({{ '/assets/pdf/Atik et al. - Developmental Science - 2024.pdf'}}), 4-year-olds can!
 
 - Can children learn new words from unfamiliar-accented speakers by using the surrounding sentential context? For instance, can they figure out that "<i>dax</i>" refers to food from hearing "Eat the <i>dax</i>"? This is another important skill in language acquisition called <i>semantic inference</i>. So far, the answer is: [Yes]({{ '/assets/pdf/Atik et al. - Developmental Science - 2024.pdf'}}), 4-year-olds can, and [sometimes]({{ '/assets/pdf/LaTourrette et al. - IBD - 2024.pdf'}}) even 2-year-olds can!
 
