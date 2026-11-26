@@ -19,8 +19,8 @@ cv:
         start_date: 2019
         end_date: 2025
         highlights:
-	      <i>Dissertation title</i>&#58; Children’s use of sentential context in word recognition and word learning in unfamiliar-accented speech
-	      <i>Committee</i>&#58; Sandra R. Waxman, Ph.D. (chair), William S. Horton, Ph.D., Adriana Weisleder, Ph.D.
+	      Dissertation title&#58; Children’s use of sentential context in word recognition and word learning in unfamiliar-accented speech
+	      Committee&#58; Sandra R. Waxman, Ph.D. (chair), William S. Horton, Ph.D., Adriana Weisleder, Ph.D.
 	      Certificates in Cognitive Science, Diversity Science, and Quantitative Methods
 
       - institution: Bilkent University
@@ -31,7 +31,7 @@ cv:
         end_date: 2019
         highlights:
         Summa Cum Laude 
-        Minor in Psychology, *Thesis title*&#58; Speech Register Comprehension and Production in Turkish-Speaking Children and Its Relation to Theory of Mind Development
+        Minor in Psychology, Thesis title&#58; Speech Register Comprehension and Production in Turkish-Speaking Children and Its Relation to Theory of Mind Development
 
       - institution: Bilkent University
         location: Eskisehir, Turkey
@@ -64,34 +64,6 @@ cv:
         position: “Language Acquisition” in Developmental Psychology
         location: Northwestern University
         start_date: Fall 2022, Spring 2022
-
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
 
     Publications:
       - title: Preschoolers benefit from sentential context in familiar‐and unfamiliar‐accented speech.
