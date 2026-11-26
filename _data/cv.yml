@@ -18,20 +18,13 @@ cv:
         studyType: Doctor of Philosophy
         start_date: 2019
         end_date: 2025
-        highlights:
-	      - Dissertation title Children’s use of sentential context in word recognition and word learning in unfamiliar-accented speech
-	      - Committee Sandra R. Waxman, Ph.D. (chair), William S. Horton, Ph.D., Adriana Weisleder, Ph.D.
-	      - Certificates in Cognitive Science, Diversity Science, and Quantitative Methods
-
+        
       - institution: Bilkent University
         location: Ankara, Turkey
         area: Translation and Interpretation
         studyType: Bachelor of Arts
         start_date: 2014
         end_date: 2019
-        highlights:
-        - Summa Cum Laude 
-        - Minor in Psychology, Thesis title Speech Register Comprehension and Production in Turkish-Speaking Children and Its Relation to Theory of Mind Development
 
       - institution: Bilkent University
         location: Eskisehir, Turkey
@@ -39,6 +32,3 @@ cv:
         studyType: Bachelor of Arts
         start_date: 2014
         end_date: 2018
-        highlights:
-        - Honor Student
-        - Distance Education
