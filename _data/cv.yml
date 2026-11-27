@@ -23,20 +23,20 @@ cv:
         end_date: 2018
         
     Research Experience:
-      - position:  Visiting Scholar
-        company: Child Learning and Development Lab, Department of Psychology
-        location: University of Southern California, Los Angeles, CA
+      - name:  Visiting Scholar
+        position: Child Learning and Development Lab, Department of Psychology
+        company: University of Southern California, Los Angeles, CA
         start_date: 2026
       
-      - position:  Graduate Student Researcher
-        company: Infant and Child Development Center, Department of Psychology
-        location: Northwestern University, Evanston, IL
+      - name:  Graduate Student Researcher
+        postion: Infant and Child Development Center, Department of Psychology
+        company: Northwestern University, Evanston, IL
         start_date: 2019
         end_date: 2025
           
-      - position:  Undergraduate Research Assistant
-        company: Bil-Ge Bilkent Development Laboratory, Department of Psychology
-        location: Bilkent University, Ankara, Turkey
+      - name:  Undergraduate Research Assistant
+        position: Bil-Ge Bilkent Development Laboratory, Department of Psychology
+        company: Bilkent University, Ankara, Turkey
         start_date: 2017
         end_date: 2019
     
@@ -49,17 +49,17 @@ cv:
       - name:  Discussion Section Leader
         position: Developmental Pscyhology
         location: Northwestern University
-        date: Fall 2022, Spring 2022
+        date: "Fall 2022, Spring 2022"
 
       - name:  Graduate Teaching Assistant
         position: Introduction to Psychology, Developmental Psychology, Cognitive Psychology, Perception, Learning, Representation & Reasoning
         location: Northwestern University
-        date: Fall 2022 - Spring 2025
+        date: "Fall 2022 - Spring 2025"
         
       - name:  Guest Lecturer
         position: “Language Acquisition” in Developmental Psychology
         location: Northwestern University
-        date: Fall 2022, Spring 2022
+        date: "Fall 2022, Spring 2022"
 
     Publications:
       - title: Preschoolers benefit from sentential context in familiar‐and unfamiliar‐accented speech.
