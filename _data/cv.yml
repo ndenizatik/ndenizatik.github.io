@@ -1,6 +1,13 @@
 cv:
   name: Naz Deniz Atik
-  email: ndenizatik[at]gmail.com
+  email: ndenizatik@gmail.com
+  social_networks:
+    - network: Google Scholar
+      username: 2j8PX6AAAAAJ 
+    - network: ORCID
+      username: 0009-0003-0452-6966
+    - network: LinkedIn 
+      username: naz-deniz-atik
 
   sections:
     Education:
