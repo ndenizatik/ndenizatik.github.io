@@ -23,19 +23,19 @@ cv:
         end_date: 2018
         
     Research Experience:
-      - name:  Visiting Scholar
-        position: Child Learning and Development Lab, Department of Psychology
+      - position:  Visiting Scholar
+        company: Child Learning and Development Lab, Department of Psychology
         location: University of Southern California, Los Angeles, CA
         start_date: 2026
       
-      - name:  Graduate Student Researcher
-        position: Infant and Child Development Center, Department of Psychology
+      - position:  Graduate Student Researcher
+        company: Infant and Child Development Center, Department of Psychology
         location: Northwestern University, Evanston, IL
         start_date: 2019
         end_date: 2025
           
-      - name:  Undergraduate Research Assistant
-        position: Bil-Ge Bilkent Development Laboratory, Department of Psychology
+      - position:  Undergraduate Research Assistant
+        company: Bil-Ge Bilkent Development Laboratory, Department of Psychology
         location: Bilkent University, Ankara, Turkey
         start_date: 2017
         end_date: 2019
@@ -136,22 +136,22 @@ cv:
           - LaTourrette, A.
           - Blanco, C.
           - Waxman, S. R. 
-        publisher: Poster presented at the 49th Annual Boston University Conference on Language Development, Boston, MA
-        releaseDate: November 2024
+        journal: Poster presented at the 49th Annual Boston University Conference on Language Development, Boston, MA
+        date: November 2024
 
       - title: "Evidence for a morphosyntactic marker of genericity in Turkish: -dir"
         authors:
           - Atik, N. D.
           - Ward, G.
           - Waxman, S. R. 
-        publisher: Poster presented at Many Paths to Language at the Max Planck Institute for Psycholinguistics, Nijmegen, Netherlands
-        releaseDate: October 2023
+        journal: Poster presented at Many Paths to Language at the Max Planck Institute for Psycholinguistics, Nijmegen, Netherlands
+        date: October 2023
 
       - title: Preschoolers benefit from sentential context when listening to familiar- and unfamiliar-accented speech
         authors:
           - Atik, N. D.
           - LaTourrette, A.
           - Waxman, S. R. 
-        publisher: Talk presented at the 47th Annual Boston University Conference on Language Development, Boston, MA
-        releaseDate: November 2022
+        journal: Talk presented at the 47th Annual Boston University Conference on Language Development, Boston, MA
+        date: November 2022
     
