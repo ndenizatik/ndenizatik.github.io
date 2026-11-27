@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: pronounced [[naz deˈniz a'tic]]('https://en.wikipedia.org/wiki/Help:IPA/Turkish')
+subtitle: pronounced <a href='https://en.wikipedia.org/wiki/Help:IPA/Turkish'>[naz deˈniz a'tic]</a>.
 
 profile:
   align: right
@@ -32,7 +32,7 @@ Hello, my name is Deniz. I am a **cognitive scientist** and **psycholinguist**.
 
 - Can children learn new words from unfamiliar-accented speakers by using the surrounding sentential context? For instance, can they figure out that *dax* refers to food from hearing "Eat the *dax*"? This is another important skill in language acquisition called *semantic inference*. So far, the answer is: [Yes]({{ '/assets/pdf/Atik et al. - Developmental Science - 2024.pdf'}}), 4-year-olds can, and [sometimes]({{ '/assets/pdf/LaTourretteBlancoAtikWaxman_IBD_2024.pdf'}}) even 2-year-olds can!
 
-**Other times**, I think about what it means for speakers of a language when their language has a particular feature that doesn't exist (or isn't as prevalent) in other languages. Since my native Turkish is packed with suffixes, the <b>language-specific features</b> I think about often involve those little guys. Check out [this poster]({{ '/assets/pdf/MPaL_Poster_11.16_Portrait.pdf'}}) I presented at [MPaL](https://www.mpi.nl/sites/default/files/2023-10/MPaL2023.ProgramFinal.pdf)  in 2023 to see how the Turkish suffix -<i>dir</i> influences Turkish speakers' thinking about genericity.
+**Other times**, I think about what it means for speakers of a language when their language has a particular feature that doesn't exist (or isn't as prevalent) in other languages. Since my native Turkish is packed with suffixes, the **language-specific features** I think about often involve those little guys. Check out [this poster]({{ '/assets/pdf/MPaL_Poster_11.16_Portrait.pdf'}}) I presented at [MPaL](https://www.mpi.nl/sites/default/files/2023-10/MPaL2023.ProgramFinal.pdf)  in 2023 to see how the Turkish suffix -*dir* influences Turkish speakers' thinking about genericity.
 
 **Where am I doing all this?** I received my PhD in Cognitive Psychology from Northwestern University, under the supervision of [Dr. Sandra Waxman](https://childdevelopment.northwestern.edu/sandra-waxman). I am currently working with [Dr. Sandy LaTourrette](https://dornsife.usc.edu/childlab/meet-the-team/) as a Visiting Scholar at the University of Southern California.
 
