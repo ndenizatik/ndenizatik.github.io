@@ -22,7 +22,7 @@ cv:
         start_date: 2014
         end_date: 2018
         
-    Rsearch Experience:
+    Research_Experience:
       - name:  Visiting Scholar
         position: Child Learning and Development Lab, Department of Psychology
         location: University of Southern California, Los Angeles, CA
@@ -40,7 +40,7 @@ cv:
         start_date: 2017
         end_date: 2019
     
-    Teaching Experience:
+    Teaching_Experience:
       - name:  Instructor of Record
         position: Research Methods in Psychology
         location: Northwestern University
@@ -98,7 +98,7 @@ cv:
           - Waxman, S. R. 
         releaseDate: in preperation
 
-    Invited Talks:
+    Invited_Talks:
       - title: Understanding challenges two-year-olds face when learning words from unfamiliar-accented speakers
         authors:
           - Atik, N. D.
@@ -129,7 +129,7 @@ cv:
         publisher: University of California Berkeley, Berkeley, California <i>held virtually</i>
         releaseDate: November 2021
 
-    Selected Conference Presentations:
+    Selected_Conference_Presentations:
       - title: Do bilingual 24-month-olds use sentential context to learn novel words in unfamiliar-accented speech? 
         authors:
           - Atik, N. D.
