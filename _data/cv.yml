@@ -70,7 +70,7 @@ cv:
           - Waxman, S. R.
         publisher: Developmental Science
         releaseDate: 2024
-        url: 10.1111/desc.13508
+        doi: 10.1111/desc.13508
         
       - title: "Navigating accent variability: 24-month-olds recognize known words spoken in an unfamiliar accent but require additional support to learn new words"
         authors:
@@ -80,7 +80,7 @@ cv:
           - Waxman, S. R.
         publisher: Infant Behavior and Development
         releaseDate: 2024
-        url: 10.1016/j.infbeh.2024.101962
+        doi: 10.1016/j.infbeh.2024.101962
         
       - title: "Accent Processing in Children: Are Children Able to Spontaneously Comprehend Unfamiliar-Accented Speech?"
         authors:
