@@ -22,13 +22,14 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
 Hello, my name is Deniz. I am a **cognitive scientist** and **psycholinguist**.
 
 **As a person**, I am forever fascinated by just how much **variability** languages exhibit, both across and within themselves. So, I spend a lot of time thinking about how we, as humans, navigate and sometimes even take advantage of this variability to communicate, learn, and reason in different **linguistic and social contexts** throughout development.
 
 **As a researcher**, I combine developmental, psycholinguistic, sociolinguistic, and cognitive science approaches to explore these questions. I am particularly interested in how young children process and learn from **unfamiliar-accented speech** (This is what I prefer to call it. We all have accents, so all speech is "accented"!). My dissertation and publications have primarily focused on two questions:
 
-- Can children predict an upcoming word in an unfamiliar accent based on the preceding words? For instance, can they predict that *cake* is likely to follow *eat*? This is an important skill we call *semantic prediction*. The answer is: [Yes]({{ '/assets/pdf/AtikLaTourretteWaxmanDevelopmentalScience_2024.pdf'}}), 4-year-olds can!
+- Can children predict an upcoming word in an unfamiliar accent based on the preceding words? For instance, can they predict that *cake* is likely to follow *eat*? This is an important skill we call *semantic prediction*. The answer is: [Yes](/assets/pdf/AtikLaTourretteWaxmanDevelopmentalScience_2024.pdf), 4-year-olds can!
 
 - Can children learn new words from unfamiliar-accented speakers by using the surrounding sentential context? For instance, can they figure out that *dax* refers to food from hearing "Eat the *dax*"? This is another important skill in language acquisition called *semantic inference*. So far, the answer is: [Yes]({{ '/assets/pdf/Atik et al. - Developmental Science - 2024.pdf'}}), 4-year-olds can, and [sometimes]({{ '/assets/pdf/LaTourretteBlancoAtikWaxman_IBD_2024.pdf'}}) even 2-year-olds can!
 
