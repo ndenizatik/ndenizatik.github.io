@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: pronounced <a href='https://en.wikipedia.org/wiki/Help:IPA/Turkish'>[naz deˈniz a'tic]</a>
+subtitle: pronounced [[naz deˈniz a'tic]]('https://en.wikipedia.org/wiki/Help:IPA/Turkish')
 
 profile:
   align: right
