@@ -23,41 +23,41 @@ cv:
         end_date: 2018
         
     Research Experience:
-      - name:  Visiting Scholar
-        position: Child Learning and Development Lab, Department of Psychology
+      - position:  Visiting Scholar
+        name: Child Learning and Development Lab, Department of Psychology
         company: University of Southern California, Los Angeles, CA
         start_date: 2026
       
-      - name:  Graduate Student Researcher
-        postion: Infant and Child Development Center, Department of Psychology
+      - position:  Graduate Student Researcher
+        name: Infant and Child Development Center, Department of Psychology
         company: Northwestern University, Evanston, IL
         start_date: 2019
         end_date: 2025
           
-      - name:  Undergraduate Research Assistant
-        position: Bil-Ge Bilkent Development Laboratory, Department of Psychology
+      - position:  Undergraduate Research Assistant
+        name: Bil-Ge Bilkent Development Laboratory, Department of Psychology
         company: Bilkent University, Ankara, Turkey
         start_date: 2017
         end_date: 2019
     
     Teaching Experience:
-      - name:  Instructor of Record
-        position: Research Methods in Psychology
+      - position:  Instructor of Record
+        name: Research Methods in Psychology
         location: Northwestern University
         date: "Fall 2023"
         
-      - name:  Discussion Section Leader
-        position: Developmental Pscyhology
+      - position:  Discussion Section Leader
+        name: Developmental Pscyhology
         location: Northwestern University
         date: "Fall 2022, Spring 2022"
 
-      - name:  Graduate Teaching Assistant
-        position: Introduction to Psychology, Developmental Psychology, Cognitive Psychology, Perception, Learning, Representation & Reasoning
+      - position:  Graduate Teaching Assistant
+        name: Introduction to Psychology, Developmental Psychology, Cognitive Psychology, Perception, Learning, Representation & Reasoning
         location: Northwestern University
         date: "Fall 2022 - Spring 2025"
         
-      - name:  Guest Lecturer
-        position: “Language Acquisition” in Developmental Psychology
+      - position:  Guest Lecturer
+        name: “Language Acquisition” in Developmental Psychology
         location: Northwestern University
         date: "Fall 2022, Spring 2022"
 
@@ -99,33 +99,23 @@ cv:
 
     Invited Talks:
       - title: Understanding challenges two-year-olds face when learning words from unfamiliar-accented speakers
-        authors:
-          - Atik, N. D.
         publisher: University of Illinois Urbana-Champaign, Champaign, Illinois
         releaseDate: March 2025
 
       - title: Infants’ use of sentential context when learning new words in unfamiliar-accented speech
-        authors:
-          - Atik, N. D.
         publisher: University of Chicago, Chicago, Illinois
         releaseDate: February 2025
         
       - title: Word learning and variability in the language environment
-        authors:
-          - Atik, N. D.
-        publisher: Department of Psychology Sneak Peek, Northwestern University, Evanston, Illinois <i>held virtaully</i>
+        publisher: Department of Psychology Sneak Peek, Northwestern University, Evanston, Illinois, <i>held virtually</i>
         releaseDate: June 2022
                 
       - title: Preschoolers’ interpretation of an unfamiliar accent
-        authors:
-          - Atik, N. D.
-        publisher: University of Chicago, Chicago, Illinois <i>held virtually</i>
+        publisher: University of Chicago, Chicago, Illinois, <i>held virtually</i>
         releaseDate: April 2022
         
       - title: Preschoolers’ interpretation of an unfamiliar accent
-        authors:
-          - Atik, N. D.
-        publisher: University of California Berkeley, Berkeley, California <i>held virtually</i>
+        publisher: University of California Berkeley, Berkeley, California, <i>held virtually</i>
         releaseDate: November 2021
 
     Selected Conference Presentations:
@@ -135,7 +125,7 @@ cv:
           - LaTourrette, A.
           - Blanco, C.
           - Waxman, S. R. 
-        journal: Poster presented at the 49th Annual Boston University Conference on Language Development, Boston, MA
+        journal: <i>Poster presented at the 49th Annual Boston University Conference on Language Development, Boston, MA</i>
         date: November 2024
 
       - title: "Evidence for a morphosyntactic marker of genericity in Turkish: -dir"
@@ -143,7 +133,7 @@ cv:
           - Atik, N. D.
           - Ward, G.
           - Waxman, S. R. 
-        journal: Poster presented at Many Paths to Language at the Max Planck Institute for Psycholinguistics, Nijmegen, Netherlands
+        journal: <i>Poster presented at Many Paths to Language at the Max Planck Institute for Psycholinguistics, Nijmegen, Netherlands</i>
         date: October 2023
 
       - title: Preschoolers benefit from sentential context when listening to familiar- and unfamiliar-accented speech
@@ -151,6 +141,6 @@ cv:
           - Atik, N. D.
           - LaTourrette, A.
           - Waxman, S. R. 
-        journal: Talk presented at the 47th Annual Boston University Conference on Language Development, Boston, MA
+        journal: <i>Talk presented at the 47th Annual Boston University Conference on Language Development, Boston, MA</i>
         date: November 2022
     

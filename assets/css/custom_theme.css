@@ -1,0 +1,240 @@
+/* ==========================================
+   CUSTOM CV STYLES
+   ========================================== */
+
+.cv {
+  --cv-date-width: 180px;
+  --cv-entry-gap: 12px;
+}
+
+/* REMOVE BULLETS AND LIST INDENTATION */
+
+.cv ul,
+.cv ol {
+  list-style: none !important;
+  padding-left: 0 !important;
+  margin-left: 0 !important;
+}
+
+.cv li,
+.cv li::marker {
+  list-style: none !important;
+}
+
+.cv li {
+  padding-left: 0 !important;
+}
+
+/* DATE TEXT */
+
+.cv .date {
+  text-transform: none !important;
+}
+
+/* ==========================================
+   CV ENTRY LAYOUT — DATE LEFT, CONTENT RIGHT
+   ========================================== */
+
+.cv .row:has(.date-column) {
+  display: grid !important;
+  grid-template-columns: var(--cv-date-width) minmax(0, 1fr) !important;
+  column-gap: var(--cv-entry-gap) !important;
+  align-items: start !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+/* DATE COLUMN */
+
+.cv .row:has(.date-column) .date-column {
+  width: auto !important;
+  max-width: none !important;
+  text-align: right !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+/* DATE TABLE */
+
+.cv .date-column table {
+  width: 100%;
+  margin: 0 !important;
+}
+
+.cv .date-column td {
+  padding: 0 !important;
+  text-align: right !important;
+}
+
+/* DATE BADGES */
+
+.cv .date-column .badge {
+  display: inline-block !important;
+  width: fit-content !important;
+  min-width: 0 !important;
+  margin-left: 1px !important;
+  margin-right: 1px !important;
+  padding-left: 5px !important;
+  padding-right: 5px !important;
+  white-space: nowrap !important;
+  text-align: center !important;
+  text-transform: none !important;
+  vertical-align: top !important;
+  transform: translateY(12px) !important;
+  font-weight: 400 !important;
+}
+
+/* CV date badge: translucent background, fully opaque text */
+.cv .date-column .badge.badge.badge {
+  background-color: color-mix(
+    in srgb,
+    var(--global-theme-color) 80%,
+    transparent
+  ) !important;
+}
+
+/* CONTENT COLUMN */
+
+.cv .row:has(.date-column) > div:not(.date-column) {
+  width: auto !important;
+  max-width: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+/* NORMALIZE CONTENT MARGINS */
+
+.cv .row:has(.date-column) > div:not(.date-column) > * {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+/* NORMALIZE CONTENT TOP ALIGNMENT */
+
+.cv .row:has(.date-column) > div:not(.date-column) > *:first-child {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* CONSISTENT CONTENT TYPOGRAPHY */
+
+.cv .row:has(.date-column) h6,
+.cv .row:has(.date-column) h5,
+.cv .row:has(.date-column) h4 {
+  margin-top: 0 !important;
+}
+
+/* ==========================================
+   MOBILE LAYOUT
+   ========================================== */
+
+@media (max-width: 576px) {
+
+  .cv .row:has(.date-column) {
+    grid-template-columns: 1fr !important;
+    row-gap: 6px !important;
+  }
+
+  .cv .row:has(.date-column) .date-column {
+    text-align: left !important;
+  }
+
+  .cv .date-column td {
+    text-align: left !important;
+  }
+
+  .cv .date-column .badge {
+    text-align: left !important;
+    transform: none !important;
+  }
+
+}
+
+.cv .row:has(.date-column) > div:not(.date-column) > div,
+.cv .row:has(.date-column) > div:not(.date-column) > div a {
+  font-weight: 300 !important;
+}
+
+
+/* Global theme colors — Light mode */
+html[data-theme="light"] {
+  --global-theme-color: #008cff;
+  --global-hover-color: #61b8ff;
+}
+
+/* Global theme colors — Dark mode */
+html[data-theme="dark"] {
+  --global-theme-color: #E3893C;
+  --global-hover-color: #EAA86E;
+}
+/* About page profile image sizing */
+:root {
+  --profile-image-width: 235px;
+}
+/* Image container */
+.profile.float-right {
+  float: right !important;
+  width: var(--profile-image-width) !important;
+  padding: 0 !important;
+  margin: 0 0 1rem 1.5rem !important;
+  box-sizing: border-box;
+}
+
+/* Figure */
+.profile.float-right figure {
+  width: 100%;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Image */
+.profile.float-right img {
+  display: block;
+  width: 100% !important;
+  max-width: 100% !important;
+  height: auto !important;
+  margin: 0 !important;
+}
+/* Social icons */
+.profile.float-right > .social {
+  display: block !important;
+  margin-top: 4px !important;
+  padding: 0 !important;
+}
+
+.profile.float-right > .social > .contact-icons {
+  margin: 0 0 -20px 0 !important;
+  padding: 0 !important;
+  line-height: 1 !important;
+}
+
+.profile .social .contact-icons a {
+  font-size: 0.7em !important;
+  display: inline-block !important;
+  margin: 0 -6.5px !important;
+  padding: 0 !important;
+}
+
+#navbar .fa-envelope {
+  font-size: 1.1rem;
+}
+
+/* Align theme toggle with the other navbar icons */
+@media (min-width: 576px) {
+  #navbar #light-toggle {
+    transform: none !important;
+  }
+}
+
+#navbar .toggle-container {
+  display: flex !important;
+  align-items: center !important;
+}
+
+#navbar .toggle-container #light-toggle {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 40px !important;
+  height: 40px !important;
+}

@@ -6,7 +6,7 @@ subtitle: pronounced <a href='https://en.wikipedia.org/wiki/Help:IPA/Turkish'>[n
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof-pic-crop.jpeg
   image_circular: false # crops the image to make it circular
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
